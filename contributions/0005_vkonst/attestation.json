@@ -1,0 +1,31 @@
+{
+  "contributor": "vkonst",
+  "contributionNumber": "0005",
+  "timestamp": "2025-03-12T13:15:15.329Z",
+  "files": [
+    {
+      "filename": "prpConverter.zkey",
+      "hash": "73f315356db0af617f24b0683253b7dfa13301a1413a2a7fe948675459a4cc6b"
+    },
+    {
+      "filename": "treeBatchUpdaterAndRootChecker.zkey",
+      "hash": "97b968cef9b4eb141ef39902034ed52b326c5289a2ff1641e53bb31bb74526b5"
+    },
+    {
+      "filename": "zAccountRegistration.zkey",
+      "hash": "1aab90132fd7c5f01919878f3cb055c6b276243764ec0748218bd9b2943d06d2"
+    },
+    {
+      "filename": "zAccountRenewal.zkey",
+      "hash": "67b72adc5f08060e79bc454032e1d1e4ca63af959022da529d19886b23cc6647"
+    },
+    {
+      "filename": "zSwap.zkey",
+      "hash": "e24726618e444fb2a437d3a8837718349317d9c2e8d511eaee521fb27ce46724"
+    },
+    {
+      "filename": "zTransaction.zkey",
+      "hash": "327450bc9b450d190588e27ca4e83ca96330e03e4103edd7fb793f969fc4fa08"
+    }
+  ]
+}
